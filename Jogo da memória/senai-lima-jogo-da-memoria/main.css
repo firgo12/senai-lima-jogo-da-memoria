@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(160, 231, 225);
+    margin: 0px;
+    align-items: center;
+}
+main{
+    max-width: 80vw;
+    margin: auto;
+}
+.cartas {
+    background-color: blueviolet;
+    line-height: 20vh;
+    width: 20%;
+}
+#center{
+    text-align: center;
+}
+div.fundo{
+    background-color: rgb(35, 190, 113);
+    border-radius: 20px;
+    width: 1000px;
+    margin-left: 20px;
+    padding: 20px; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+div.cartas{
+    background-color: rgb(51, 109, 143);
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: 2%;
+  }
